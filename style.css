@@ -5,3 +5,8 @@ body {
 h1, h2 {
   color: white;
 }
+
+.intro{
+  display: flex;
+  flex-direction: row;
+}
